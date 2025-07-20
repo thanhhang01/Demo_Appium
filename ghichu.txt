@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "flipboard.app",
+  "appium:appActivity": "flipboard.activities.LaunchActivityAlias",
+  "appium:ap": "F://Testcase//serenity-appium-java//src//test//resources//app//flipboard.apk",
+  "appium:noReset": true
+}
